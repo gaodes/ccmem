@@ -8,13 +8,7 @@
   "plugins": [
     {
       "name": "ccmem",
-      "description": "Claude Code Memory System - File-based learning and memory management",
-      "version": "1.1.0",
-      "source": "./",
-      "author": {
-        "name": "El Che",
-        "email": "elche@elches.dev"
-      }
+      "source": "./"
     }
   ]
 }
